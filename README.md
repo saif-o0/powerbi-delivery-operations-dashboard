@@ -1,2 +1,2 @@
 # Delivery_Operations_Dashboard
-Interactive Power BI dashboard analyzing Financial sales income by sales, built with Power Query, DAX, Bookmarks and Slicers.
+Interactive Power BI dashboard analyzing delivery operations, risk and profitability by region and service type, built with DAX, Waterfall charts and Slicers.
